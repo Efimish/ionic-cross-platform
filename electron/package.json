@@ -1,15 +1,7 @@
 {
-  "name": "IonicApp",
+  "name": "ionic-cross-platform",
   "version": "1.0.0",
-  "description": "An Amazing Capacitor App",
-  "author": {
-    "name": "",
-    "email": ""
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "description": "Cross-platform Ionic App (iOS, Android, Electron)",
   "license": "MIT",
   "main": "build/src/index.js",
   "scripts": {

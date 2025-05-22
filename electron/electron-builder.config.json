@@ -1,5 +1,5 @@
 {
-  "appId": "com.yourdoamnin.yourapp",
+  "appId": "ru.efima.ionicapp",
   "directories": {
     "buildResources": "resources"
   },
@@ -9,9 +9,6 @@
     "capacitor.config.*",
     "app/**/*"
   ],
-  "publish": {
-    "provider": "github"
-  },
   "nsis": {
     "allowElevation": true,
     "oneClick": false,
